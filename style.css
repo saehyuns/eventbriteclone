@@ -1,0 +1,26 @@
+.ui.dropdown.item {
+  font-family: "Benton Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif !important;
+  font-size: 12px !important;
+  color: #45494E !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.item {
+  font-family: "Benton Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif !important;
+  font-size: 12px !important;
+  color: #45494E !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.grad-background {
+  background: url('https://cdn.evbstatic.com/s3-build/perm_001/99ca9f/django/images/home/banners/homepage_hero_banner_4.jpg');
+  background-size: cover;
+  height: 570px;
+}
+.footer-background {
+  background-color: #292929;
+  height: 202px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
